@@ -2,7 +2,7 @@
 
 ## - SensorPaper.PDF
 
-### "A baseline correction model for humidity and temperature compensation"
+### ["A baseline correction model for humidity and temperature compensation"](https://ieeexplore.ieee.org/document/8956920)
 
 Sujoy Ghosh, Anujay Ghosh, Nived Kodavali, Chandra Shekhar Prajapati, Navakanta Bhat.
 Centre for Nanoscience and Engineering,
