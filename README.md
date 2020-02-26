@@ -11,7 +11,7 @@ Indian Institute of Science, Bangalore, India.
 
 ## - HDRPaper.PDF
 
-### "Steady Model for Classification of Handwritten Digit Recognition"
+### ["Steady Model for Classification of Handwritten Digit Recognition"](https://link.springer.com/chapter/10.1007/978-981-15-2305-2_32)
 
 Anujay Ghosh, Aruna Pavate, Vidit Gholam, Gauri Shenoy, Shefali Mahadik.
 Atharva College of Engineering,
