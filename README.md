@@ -8,6 +8,7 @@ Sujoy Ghosh, Anujay Ghosh, Nived Kodavali, Chandra Shekhar Prajapati, Navakanta 
 Centre for Nanoscience and Engineering,
 Indian Institute of Science, Bangalore, India.
 #### Accepted at IEEE Sensors 2019, Montreal, Canada Conference.
+© IEEE, 2019
 
 ## - HDRPaper.PDF
 
