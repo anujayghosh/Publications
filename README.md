@@ -1,5 +1,15 @@
 # Publications
 
+## - Savant.PDF
+
+### ["Screen Reading Enabled by Large Language Models"](https://dl.acm.org/doi/10.1145/3663548.3688491)
+
+Ghosh, Anujay and Padma Reddy, Monalika and Kodandaram, Satwik Ram and Uckun, Utku and Ashok, Vikas and Bi, Xiaojun and Ramakrishnan, IV
+Department of Computer Science,
+Stony Brook University, New York, USA.
+#### Accepted at ASSETS ’24, St. John’s, NL, Canada.
+© 2024 Copyright held by the owner/author(s).
+
 ## - SensorPaper.PDF
 
 ### ["A baseline correction model for humidity and temperature compensation"](https://ieeexplore.ieee.org/document/8956920)
@@ -7,7 +17,7 @@
 Sujoy Ghosh, Anujay Ghosh, Nived Kodavali, Chandra Shekhar Prajapati, Navakanta Bhat.
 Centre for Nanoscience and Engineering,
 Indian Institute of Science, Bangalore, India.
-#### Accepted at IEEE Sensors 2019, Montreal, Canada Conference.
+#### Accepted at IEEE Sensors 2019 Conference, Montreal, Canada.
 © IEEE, 2019
 
 ## - HDRPaper.PDF
@@ -17,7 +27,7 @@ Indian Institute of Science, Bangalore, India.
 Anujay Ghosh, Aruna Pavate, Vidit Gholam, Gauri Shenoy, Shefali Mahadik.
 Atharva College of Engineering,
 Mumbai University, Mumbai, India.
-#### Accepted at IEPCCT-Springer 2019, Bhubhaneshwar, India Conference.
+#### Accepted at IEPCCT-Springer 2019 Conference, Bhubhaneshwar, India.
 #### Awarded Best Paper Presentation
 © Springer Nature Singapore Pte Ltd. 2020
 
